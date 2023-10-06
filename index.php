@@ -1,6 +1,6 @@
 <?php
+require('app/app.php');
 
-require('functions.php');
-$title = "Hello World";
+$data = get_data();
 
-view('index', $title);
+view('index', ' ');
