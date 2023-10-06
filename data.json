@@ -1,0 +1,22 @@
+[
+  {
+    "term": "css",
+    "definition": "cascading style sheets"
+  },
+
+  {
+    "term": "js",
+    "definition": "javascript"
+  },
+
+    {
+        "term": "php",
+        "definition": "hypertext preprocessor"
+    },
+
+    {
+        "term": "json",
+        "definition": "javascript object notation "
+    }
+
+]
