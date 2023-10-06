@@ -6,7 +6,7 @@ function get_data()
     $json_content = ' ';
 
     if(!file_exists($fname)) {
-        file_put_contents($fname, '');
+        file_put_contents($fname, ' ');
     }else {
         $json_content = file_get_contents($fname); 
     }
