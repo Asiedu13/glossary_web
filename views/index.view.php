@@ -1,6 +1,9 @@
 
 <section>
-    <h2><?= $model ?></h2>
+    <header>
+        <h1>Glossary</h1>
+    </header>
+    <!-- <h2><?= $model ?></h2>
 
     <form action="" method="POST">
         <div>
@@ -14,5 +17,5 @@
         <div>
            <button type="submit">Login</button>
         </div>
-    </form>
+    </form> -->
 </section>
